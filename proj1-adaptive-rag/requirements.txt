@@ -1,0 +1,27 @@
+# Adaptive RAG 项目依赖包
+
+# LangChain 核心组件
+langchain==0.1.0
+langchain-community==0.1.0
+langchain-openai==0.1.0
+langchain-cohere==0.1.0
+langgraph==0.1.0
+langchainhub==0.1.0
+
+# 向量数据库
+chromadb==0.4.0
+
+# OpenAI 分词器
+tiktoken==0.5.0
+
+# 网络搜索工具
+tavily-python==0.3.0
+
+# 环境变量管理
+python-dotenv==1.0.0
+
+# 类型提示
+typing-extensions==4.9.0
+
+# 数据验证
+pydantic==2.5.0
