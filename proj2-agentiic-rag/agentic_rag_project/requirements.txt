@@ -1,0 +1,27 @@
+# 核心依赖
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-openai>=0.0.5
+langgraph>=0.0.30
+langchainhub>=0.1.14
+
+# 向量存储
+chromadb>=0.4.0
+
+# 文本处理
+tiktoken>=0.5.0
+langchain-text-splitters>=0.0.1
+
+# 环境管理
+python-dotenv>=1.0.0
+
+# 输出格式化
+pydantic>=1.10.0
+
+# 开发和调试（可选）
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# 可视化依赖（可选）
+graphviz>=0.20.0
+matplotlib>=3.7.0
